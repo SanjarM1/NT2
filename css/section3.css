@@ -1,0 +1,31 @@
+.section3 {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px;
+    padding: 90px;
+}
+.section3_box{
+    width: 630px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 56px;
+}
+.section3_box-title {
+    color: var(--color1);
+    font-family: Poppins;
+    font-size: 38px;
+    line-height: 44px;
+}
+.section3_btn {
+    width: 151px;
+    border-radius: 3px;
+    border: 2px solid var(--color1);
+    color: var(--color1);
+    font-family: Poppins;
+    font-size: 20px;
+    line-height: 28.8px;
+    padding: 11px 17px;
+}

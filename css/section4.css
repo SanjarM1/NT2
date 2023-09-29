@@ -1,0 +1,28 @@
+.section4 {
+    width: 100%;
+    margin-top: 90px;
+}
+
+.section4_content {
+    width: 1400px;
+    height: 476px;
+    margin: 0 auto;
+    background: var(--color1);
+    border-radius: 16px;
+    padding: 84px 60px;
+}
+
+.section4_content-title {
+    width: 1181px;
+    color: var(--color2);
+    font-family: Poppins;
+    font-size: 80px;
+    line-height: 100px;
+    margin-bottom: 45px;
+}
+.section4_content-info{
+    color: #F1F1EB;
+    font-family: Poppins;
+    font-size: 26px;
+    line-height: 36.4px; 
+}

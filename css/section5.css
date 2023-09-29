@@ -1,0 +1,25 @@
+.section5 {
+    width: 100%;
+    padding-top: 84px;
+}
+
+.section5_title {
+    width: 1319px;
+    color: var(--color1);
+    font-family: Poppins;
+    font-size: 80px;
+    line-height: 100px;
+    margin: 0 auto;
+}
+
+.section5_btn {
+    border-radius: 3px;
+    border: 2px solid var(--color1);
+    color: var(--color1);
+    font-family: Poppins;
+    font-size: 20px;
+    line-height: 28.8px;
+    padding: 11px 17px;
+    margin-top: 56px;
+    margin-left: 6.5%;
+}

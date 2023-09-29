@@ -1,0 +1,22 @@
+.section1 {
+    width: 100%;
+}
+
+.section1_title {
+    width: 1269px;
+    color: var(--color1);
+    font-family: Poppins;
+    font-size: 80px;
+    line-height: 100px;
+    margin: 120px auto 0 auto;
+}
+
+.section1_img {
+    width: 1400px;
+    height: 928px;
+    margin: 136px auto 84px auto;
+    border-radius: 16px;
+    background: url('../images/section1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
