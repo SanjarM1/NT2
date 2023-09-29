@@ -1,10 +1,16 @@
 .section3 {
     width: 100%;
+    padding: 90px 0 0 0;
+}
+.section3_content{
+    width: 1320px;
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     gap: 100px;
-    padding: 90px;
+    margin: 0 auto;
+}
+.mg{
+    margin-bottom: 90px;
 }
 .section3_box{
     width: 630px;
